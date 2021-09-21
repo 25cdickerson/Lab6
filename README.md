@@ -1,2 +1,2 @@
-# Lab6
-Created with CodeSandbox
+# JSstorage
+assignment to practice retrieving data from lists and objects
